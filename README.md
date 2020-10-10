@@ -2,8 +2,8 @@
 
 This series will focus on creating creative & micro frontend elements or pages
 
-## day -
+## day 4 - Basic Css Loader
 
-with html & css
+Basic Loader with html & css
 
 ![Test Image 3](/preview.gif)
